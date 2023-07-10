@@ -1,4 +1,4 @@
-* 
+
 [README](./README.md)
 * [API we used](./doc/API.md)
 * [Spring Concept and Install](/doc/Spring-Usage.md)
@@ -9,8 +9,10 @@
 
 * 建立範例資料庫: `./src/main/others/boardgame.sql`
 * 設定 properties: `./src/main/resources/application.properties.template` 設定為自己的 server 設定，更名為 `application.properties`
-* 透過 `localhost:8082/foreground`, `localhost:8082/management` 執行
+* 透過 `localhost:8082/foreground/login`, `localhost:8082/background/login` 執行
 * 網頁 mapping 規則參考 `./src/main/java/webapp/config/WebConfig.java`
+
+> 開發環境為 java17, spring-boot 3.0.4, redis 7.0, mysql 5.0
 
 ## Config
 
