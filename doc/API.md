@@ -1,4 +1,6 @@
 
+* [READEME](../README.md)
+
 # API Doc
 
 以下為有使用到的 API
@@ -37,3 +39,4 @@
 
 * [stream API](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/stream/package-summary.html)
     * 處理 DB 取出的 collection
+
