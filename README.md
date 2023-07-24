@@ -19,7 +19,16 @@
 * [ref](#ref)
 * [Dev Rules](#dev-rules)
 
-[toc]
+## Connect
+
+current public IP: 43.207.174.232
+* not elastic IP, so this IP will change
+* new IP will publish at [wiki page](https://github.com/babySushi1212/CGA106G1/wiki)
+
+```
+[public IP]:8080/background/login
+[public IP]:8080/foreground/login
+```
 
 ## Preparement
 
